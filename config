@@ -228,6 +228,6 @@ bindsym $mod+F8 exec xfce4-screenshooter
 exec setxkbmap se
 
 # Set resoultion
-exec xrandr --output VGA-1 --mode 1920x1080
+exec xrandr --output VGA-1 --mode 1280x720
 
 # ======================================================
